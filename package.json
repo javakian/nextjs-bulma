@@ -1,0 +1,21 @@
+{
+  "name": "next-with-bulma",
+  "version": "1.0.0",
+  "description": "Trying out Next.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "now-build": "next build"
+  },
+  "author": "Jake Varness",
+  "license": "MIT",
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "bulma": "^0.7.5",
+    "next": "^8.1.0",
+    "node-sass": "^4.14.1",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}
